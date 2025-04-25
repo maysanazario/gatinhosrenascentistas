@@ -42,3 +42,8 @@ Este projeto demonstra:
 - Adaptação de um **template temático complexo**  
 - Preservação de **elementos artísticos e identidade visual**  
 - Solução técnica para **hospedagem simplificada**  
+
+🔗 **Acesse o projeto online:** [Visitar Site Gatinhos Renascentistas](https://example.com/link-para-o-site)  
+
+📷 **Preview do layout:**  
+[![Layout completo do site](gatinhos-renascentistas.png)](https://example.com/link-para-o-site)
