@@ -43,7 +43,7 @@ Este projeto demonstra:
 - Preservação de **elementos artísticos e identidade visual**  
 - Solução técnica para **hospedagem simplificada**  
 
-🔗 **Acesse o projeto online:** [Visitar Site Gatinhos Renascentistas](https://example.com/link-para-o-site)  
+🔗 **Acesse o projeto online:** [Visitar Site Gatinhos Renascentistas](https://maysanazario.github.io/gatinhosrenascentistas/) 
 
 📷 **Preview do layout:**  
-[![Layout completo do site](gatinhos-renascentistas.png)](https://example.com/link-para-o-site)
+[![Layout completo do site](gatinhos-renascentistas.png)](https://maysanazario.github.io/gatinhosrenascentistas/)
